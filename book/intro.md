@@ -1,9 +1,11 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the CEG research data management handbook!
 
-_Write book intro here. This is the first page the student will see when opening the url._
+In this book you will find information on research data management and related topics like research software and open science. 
 
-This book can be used as a template for other books. It includes all software developed by the CEG interactive books initiative and make it easier to keep various software in those other books up to date.
+This information is relevant to research in **TU Delft's Civil Engineering & Geosciences faculty**
+
+_The CEG faculty data stewards regularly update this book to make our work more transparent and reusable._
 
 ---
 
